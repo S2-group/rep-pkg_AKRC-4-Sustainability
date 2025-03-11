@@ -8,14 +8,6 @@ Authors:
 * Patricia Lago
 * Roel Donker
 
-Quick Links
----------------
-
-* [Questionnaire-Guide.xlsx](01_StudyDesign/Questionnaire-Guide.xlsx)
-* [Interview-Guide.xlsx](01_StudyDesign/Interview-Guide.xlsx)
-* [Codebook.xlsx](03_Analysis/codebook.xlsx)
-* [Recommendations.pdf](04_Recommendations/AKRC_Sustainability_Recommendations.pdf)
-
 Note
 ---------------
 Please note that for confidentiality reasons we cannot disclose the raw data from the questionnaire survey, the interviews transcripts, and the focus group transcripts.
