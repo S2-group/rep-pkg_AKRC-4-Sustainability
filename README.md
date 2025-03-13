@@ -11,7 +11,7 @@ Authors:
 Quick Links
  ---------------
  
- * [Appendix A](appendix/appendix_A.pdf)
+ * [Appendix A](appendix/Appendix_A.pdf)
  
 
 Note
