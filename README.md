@@ -8,6 +8,12 @@ Authors:
 * Patricia Lago
 * Roel Donker
 
+Quick Links
+ ---------------
+ 
+ * [Appendix A](appendix/appendix_A.pdf)
+ 
+
 Note
 ---------------
 Please note that for confidentiality reasons we cannot disclose the raw data from the questionnaire survey, the interviews transcripts, and the focus group transcripts.
